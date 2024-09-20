@@ -12,7 +12,7 @@ function draw() {
   background(220); // Limpiar el lienzo en cada frame
 
   // Dibujar el mensaje en la parte superior
-  fill(255, 215, 0); // Color del texto
+  fill(225, 180, 0); // Color del texto
   text("Feliz día, Manfred", width / 2, 40); // Texto centrado en la parte superior
 
   // Dibujar el tallo verde con un degradado simple
